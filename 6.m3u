@@ -1,0 +1,277 @@
+#EXTM3U
+#EXTINF:7,Hijrah TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:60,Rodja TV (720p) [Geo-blocked]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:60,NET. (480p) [Geo-blocked]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#EXTINF:9,RadioKita TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:0,Zee Bioskop (360p) [Geo-blocked]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+#EXTINF:0,ADiTV (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+#EXTINF:7,Ahsan TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:30,Al-Iman TV (720p) [Geo-blocked]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+#EXTINF:36,BRTV (1080p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:0,Bungo TV (480p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:29,Fajar TV (240p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
+#EXTINF:28,Garuda TV (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+#EXTINF:7,Insan TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:24,Inspira TV (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:0,Izzah TV (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:0,Max2U (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
+#EXTINF:0,MCC (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
+#EXTINF:30,Media Sunnah Aceh [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://hls.youtb.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+#EXTINF:0,MQTV (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:60,mta tv (720p) [Geo-blocked]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+#EXTINF:0,Nusantara TV (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:0,Pon TV (360p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
+#EXTINF:0,PTV World (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://hls.youtb.workers.dev/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
+#EXTINF:0,Riau TV (576p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+#EXTINF:0,Sakti TV (480p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://v2.siar.us/saktitv/livestream/playlist.m3u8
+#EXTINF:7,Salam TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:0,Sangaji TV (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:0,Sunnah Jalan Pasti TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:0,Surau TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://h1.intechmedia.net/intech/ch3.m3u8
+#EXTINF:0,Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:0,TV Edukasi (576p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
+#EXTINF:0,TV Tabalong (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:30,TV9 Nusantara (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:0,TVE Internacional Asia-Oceania (576p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
+#EXTINF:0,tvMu (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://tvmu.siar.us/tvmu/live/playlist.m3u8
+#EXTINF:0,TVRI Aceh (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:0,TVRI Bali (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:0,TVRI Bangka Belitung (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:0,TVRI Bengkulu (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:0,TVRI DKI Jakarta (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+#EXTINF:0,TVRI Gorontalo (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:0,TVRI Jambi (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:0,TVRI Jawa Barat (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:0,TVRI Jawa Tengah (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:0,TVRI Jawa Timur (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:0,TVRI Kalimantan Barat (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+#EXTINF:0,TVRI Kalimantan Selatan (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+#EXTINF:0,TVRI Kalimantan Tengah (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+#EXTINF:0,TVRI Kalimantan Timur (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:0,TVRI Lampung (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+#EXTINF:0,TVRI Maluku (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:0,TVRI Nusa Tenggara Barat (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:0,TVRI Nusa Tenggara Timur (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:0,TVRI Papua (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:0,TVRI Riau (720p) [Not 24/7]
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+#EXTINF:0,TVRI Sport (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0,TVRI Sulawesi Barat (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+#EXTINF:0,TVRI Sulawesi Selatan (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+#EXTINF:0,TVRI Sulawesi Tengah (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+#EXTINF:0,TVRI Sulawesi Tenggara (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+#EXTINF:0,TVRI Sumatera Barat (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:0,TVRI Sumatera Selatan (480p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:0,TVRI World (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:0,TVRI Yogyakarta (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:0,UFA 24 (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTINF:0,UGTV (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:0,Usee Prime (720p)
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
